@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<title>Dinesh Pandiyan | Awesome Dev</title>
+	<title>napdown | Info | Products </title>
 
 	<link rel="icon" href="favicon.ico" type="image/png" />
 
@@ -13,25 +14,19 @@
 	<link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/themes/indigo-white.css">
-	<!-- <link rel="stylesheet" href="css/themes/green-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/red-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/grey-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-indigo.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-blue.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-grey.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-red.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/yellow-black.css"> -->
+	<link rel="stylesheet" href="css/themes/white-blue.css">
+	
 </head>
 <body>
 	<main>
-		<div class="intro">Hello, I'm Dinesh!</div>
-		<div class="tagline">All-Star Dev | Code Fanatic | Linux Hacker | Bleh</div>
+		<div class="intro">Hello, welcome to napdown!</div>
+		<div class="tagline">Your home for NAP information and products</div>
 		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
 		<div class="icons-social">
-			<a target="_blank" href="https://github.com/flexdinesh"><i class="fab fa-github"></i></a>
-			<a target="_blank" href="https://twitter.com/flexdinesh"><i class="fab fa-twitter"></i></a>
-			<a target="_blank" href="https://www.linkedin.com/in/dineshpandiyan"><i class="fab fa-linkedin"></i></a>
+			<a target="_blank" href="https://github.com/napdown"><i class="fab fa-github"></i></a>
+			<a target="_blank" href="https://twitter.com/napdown"><i class="fab fa-twitter"></i></a>
+			<a target="_blank" href="https://www.facebook.com/in/napdown"><i class="fab fa-facebook"></i></a>
+			<a target="_blank" href="https://www.linkedin.com/in/napdown"><i class="fab fa-linkedin"></i></a>
 			
     </div>
 	</main>
