@@ -1,10 +1,8 @@
-```{r}
-![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
-```
 
-## Welcome to napdown! 
+![Welcome to napdown!](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
 
-__Your home for NAP products and information. __
+
+##  __Your home for NAP products and information. __
 
 ## Products
 [Projects](https://napdown.github.io/)
