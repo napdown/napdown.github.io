@@ -37,4 +37,4 @@ For feedback or questions, contact support at (opennapdown@gmail.com)
 
 ---
 
-###### For more information about National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
+###### For more information about National Adaptation Plans, [browse here](https://www4.unfccc.int/sites/NAPC/Pages/national-adaptation-plans.aspx)
