@@ -1,6 +1,5 @@
  <head>
-    ...
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" type="image/png" href="unfccc.png">
   </head>
 
 ![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png) 
