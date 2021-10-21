@@ -1,5 +1,5 @@
 
-![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png) __Welcome to napdown!
+![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png) 
 
 #  Welcome to napdown!
 Your home for NAP products and information.
@@ -31,4 +31,4 @@ The [LEG](https://unfccc.int/LEG)
 ### Support or Contact
 For feedback or questions, contact support at (opennapdown@gmail.com)
 
-##### For more information about the National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
+###### For more information about the National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
