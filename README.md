@@ -1,5 +1,6 @@
 
-![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
+![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png) __Welcome to napdown!
+
 #  Welcome to napdown!
 Your home for NAP products and information.
 
@@ -12,8 +13,6 @@ napdown is a very very cooool friend!
 
 The [LEG](https://unfccc.int/LEG)
 
-For more information about the National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
-
 ------
 
 ## Products
@@ -25,9 +24,11 @@ For more information about the National Adaptation Plans, [browse here](https://
 
 [Lesotho eNAP](https://napdown.github.io/Lesotho/)
 
-### [Contact us](mailto:opennapdown@gmail.com) 
-
 ### [Feedback form](https://napdown.github.io/)
+
+### [Contact us](mailto:opennapdown@gmail.com) 
 
 ### Support or Contact
 For feedback or questions, contact support at (opennapdown@gmail.com)
+
+##### For more information about the National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
