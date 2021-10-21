@@ -1,4 +1,7 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+ <head>
+    ...
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+  </head>
 
 ![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png) 
 
@@ -35,4 +38,4 @@ For feedback or questions, contact support at (opennapdown@gmail.com)
 
 ---
 
-###### For more information about the National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
+###### For more information about National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
