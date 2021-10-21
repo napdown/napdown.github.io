@@ -24,11 +24,14 @@ The [LEG](https://unfccc.int/LEG)
 
 [Lesotho eNAP](https://napdown.github.io/Lesotho/)
 
+-----
 ### [Feedback form](https://napdown.github.io/)
 
 ### [Contact us](mailto:opennapdown@gmail.com) 
 
 ### Support or Contact
 For feedback or questions, contact support at (opennapdown@gmail.com)
+
+---
 
 ###### For more information about the National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
