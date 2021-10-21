@@ -4,7 +4,7 @@
 Your home for NAP products and information.
 
 ## Products
-[Projects](https://napdown.github.io/)
+[Our Repositories](https://napdown.github.io/)
 
 ## About Us
 The Open NAP Initiative by the UNFCCC LDC Expert Group supports the successful formulation and implementation of NAPs in developing countries.
