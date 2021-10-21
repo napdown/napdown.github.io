@@ -2,6 +2,8 @@
 
 Your homepage to NAP products and information. 
 
+[Link](url) and ![Image](src)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
