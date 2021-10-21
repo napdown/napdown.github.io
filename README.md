@@ -1,5 +1,3 @@
-![unfccc_logo2](https://user-images.githubusercontent.com/80290349/138364090-ed10dbe0-1184-4a0b-a90b-05887be831e0.png)
-
 
 ![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png) 
 
