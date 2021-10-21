@@ -5,13 +5,20 @@ Your home for NAP products and information.
 
 *****
 
-## About Us
-The Open NAP Initiative by the UNFCCC LDC Expert Group supports the successful formulation and implementation of NAPs in developing countries.
+## About
+napdown is a very very cooool friend!
+[Open NAPs](https://napcentral.netlify.app/open-naps/)
+The [LEG](https://unfccc.int/LEG)
 
 For more information about the National Adaptation Plans, [browse here](https://napcentral.netlify.app/naps/)
+
 ------
+
 ## Products
 [Our Repositories](https://github.com/napdown)
+[NAP Dashboard](https://napdown.github.io/O-NAPs-Dashboard/)
+[napdown recipebook](https://napdown.github.io/NAPdown/)
+[Lesotho eNAP](https://napdown.github.io/Lesotho/)
 
 ### [Contact us](mailto:opennapdown@gmail.com) 
 
