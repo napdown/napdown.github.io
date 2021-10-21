@@ -2,29 +2,12 @@
 
 Your homepage to NAP products and information. 
 
-[Link](url) and ![Image](src)
+[Link](https://napdown.github.io/) and ![Logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
 
 ### Markdown
+[README.md](https://github.com/napdown/napdown.github.io/files/7391332/README.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
