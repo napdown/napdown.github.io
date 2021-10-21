@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
 ![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png) 
 
