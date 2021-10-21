@@ -1,16 +1,20 @@
-![Logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
-## Welcome to napdown!
 
-Your homepage to NAP products and information. 
+## Welcome to napdown! ![Logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
+
+Your home for NAP products and information. 
 
 https://napdown.github.io/
 
-### Markdown
+## Products
 [README.md](https://github.com/napdown/napdown.github.io/files/7391332/README.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## About
+### Contact us
+### Feedback form
 
 ### Jekyll Themes
 
