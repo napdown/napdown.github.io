@@ -1,5 +1,11 @@
 <img src="https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z" width=15% height=15%> 
 
+![logo](/assets/img/logo.png) 
+
+![logo](assets/img/logo.png)
+
+![logo](assets/img/logo.png){align='right'}
+
 # [About](https://napcentral.netlify.app/open-naps/) 
 
 # Products
