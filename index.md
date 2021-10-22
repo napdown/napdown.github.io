@@ -1,7 +1,5 @@
 
   
-![logo](https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z)  
-
 #  Welcome to napdown!  
 Your home for NAP products and information.
 
