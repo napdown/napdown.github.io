@@ -1,6 +1,6 @@
-<a href="http://www.website.com" title="Website name"><i style="margin-right: 0.5em; color: #EEEEEE;" class="icon-home icon-4x"></i>Website Link</a>
 
-![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png) 
+# {-}
+![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png){width=300px style="display: block; margin:0 auto;"} 
 
 #  Welcome to napdown!  
 Your home for NAP products and information.
