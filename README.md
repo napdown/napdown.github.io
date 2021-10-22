@@ -1,6 +1,6 @@
 
 
-![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png){width=300px style="display: block; margin:0 auto;"} 
+![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
 
 #  Welcome to napdown!  
 Your home for NAP products and information.
