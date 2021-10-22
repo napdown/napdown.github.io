@@ -1,4 +1,3 @@
-avatar: "/assets/img/logo.png"
 theme: jekyll-theme-leap-day
 title: napdown Homepage
 description: Your home for NAP information and products!
@@ -10,6 +9,8 @@ navbar-links:
     - NAP Tracker: "https://github.com/napdown/NAP_Progress_Aggregate/"
     - Lesotho: "https://github.com/napdown/Lesotho/"
   Home: "https://napdown.githbu.io"
+avatar: "/assets/img/logo.png"
+title-img: /assets/img/logo.png
   
 social-network-links:
   email: "opennapdown@gmail.com"
