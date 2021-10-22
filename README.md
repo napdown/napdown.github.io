@@ -23,7 +23,7 @@ The [LEG](https://unfccc.int/LEG)
 [Lesotho eNAP](https://napdown.github.io/Lesotho/)
 
 -----
-![img](assets/img/logo.png){width=1in) 
+![img](assets/img/unfccc_logo.png){width=1in}
 
 ### [Feedback form](https://napdown.github.io/)
 
