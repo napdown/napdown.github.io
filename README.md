@@ -34,5 +34,4 @@ For feedback or questions, contact support at (opennapdown@gmail.com)
 
 
 ###### For more information about National Adaptation Plans, [browse here](https://www4.unfccc.int/sites/NAPC/Pages/national-adaptation-plans.aspx)
-
 <img src="https://live.staticflickr.com/7322/9706194985_796056a56d_n.jpg" width=20% height=20%>
