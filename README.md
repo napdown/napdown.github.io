@@ -1,5 +1,5 @@
 
-# {-}
+
 ![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png){width=300px style="display: block; margin:0 auto;"} 
 
 #  Welcome to napdown!  
