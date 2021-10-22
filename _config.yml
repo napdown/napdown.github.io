@@ -1,5 +1,42 @@
-![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
+avatar: ![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
 theme: jekyll-theme-leap-day
-favicon: ![logo](https://www.eci.ox.ac.uk/research/climate/img/unfccc.png)
 title: napdown Homepage
-description: Where cool things happen!
+description: Your home for NAP information and products!
+navbar-links:
+  About: 
+  Products: 
+    - Repositories: "https://github.com/napdown/"
+    - NAP Dashboard: "https://github.com/napdown/O-NAPS-Dashboard/"
+    - NAP Tracker: "https://github.com/napdown/NAP_Progress_Aggregate/"
+    - Lesotho: "https://github.com/napdown/Lesotho/"
+  Home: "https://napdown.githbu.io"
+  
+social-network-links:
+  email: "opennapdown@gmail.com"
+  github: napdown
+  facebook: napdown
+  twitter: napdown
+  linkedin: napdown
+  youtube: c/napdown    
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  github: true
+  
+url-pretty: "napdown.com"
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
