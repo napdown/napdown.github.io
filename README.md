@@ -1,6 +1,5 @@
-
-  
-![logo](https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z)  
+ 
+<img src="https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z" width=50% height=50%>
 
 *****
 
@@ -36,5 +35,4 @@ For feedback or questions, contact support at (opennapdown@gmail.com)
 
 ###### For more information about National Adaptation Plans, [browse here](https://www4.unfccc.int/sites/NAPC/Pages/national-adaptation-plans.aspx)
 
-![img](assets/img/unfccc_logo.jpg){width=0.2}
-
+<img src="https://live.staticflickr.com/7322/9706194985_796056a56d_n.jpg" width=20% height=20%>
