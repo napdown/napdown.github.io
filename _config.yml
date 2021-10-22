@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 <img src="https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z" width=10% height=10%>
 title: napdown Homepage
 description: Your home for NAP information and products!
----
+
 navbar-links:
   About: 
   Products: 
@@ -11,9 +11,9 @@ navbar-links:
     - NAP Tracker: "https://github.com/napdown/NAP_Progress_Aggregate/"
     - Lesotho: "https://github.com/napdown/Lesotho/"
   Home: "https://napdown.githbu.io"
-avatar: "/assets/img/logo.png"
+avatar: <img src="https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z" width=10% height=10%>
 title-img: <img src="https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z" width=10% height=10%> /assets/img/logo.png
----  
+ 
 social-network-links:
   email: "opennapdown@gmail.com"
   github: napdown
