@@ -13,6 +13,5 @@
 
 -----
 
-[![Foo](https://emergency.med.ubc.ca/files/2014/02/Article-Repository-Icon-V1.gif)](https://github.com/napdown)
 ###### For more information about National Adaptation Plans, [browse here](https://www4.unfccc.int/sites/NAPC/Pages/national-adaptation-plans.aspx)        |           Learn more about the work of the [LEG](https://unfccc.int/LEG)             |            [Contact us](mailto:opennapdown@gmail.com) 
 
