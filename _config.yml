@@ -1,6 +1,5 @@
 theme: jekyll-theme-leap-day
-title: napdown Homepage
-title: <img src="https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z" width=20% height=20% align=left>  
+title: <img src="https://www.reeep.org/sites/default/files/styles/reeep_large/public/UNFCCC.png?itok=4zFlTp9Z" width=20% height=20% align=top-left>                 napdown Homepage
 description: Your home for NAP information and products!
 
 navbar-links:
