@@ -6,7 +6,7 @@
 ----
 
 # Products
-[![Foo](https://emergency.med.ubc.ca/files/2014/02/Article-Repository-Icon-V1.gif)](https://github.com/napdown)
+
 ### [Our Repositories](https://github.com/napdown)       
 ### [NAP Dashboard](https://napdown.github.io/O-NAPs-Dashboard/)        
 ### [Cookbook](https://napdown.github.io/NAPdown/)
