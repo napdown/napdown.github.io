@@ -2,9 +2,10 @@
 ----------
 
 ## About
-__Goal:__ To enhance data mining, access and application in the process to prepare and implement NAPS.   
+__Goal__ 
+To enhance data mining, access and application in the process to prepare and implement NAPS.   
 
-__Objectives:__   
+__Objectives__   
                 1. Reduce data access gaps    
                 2. Enhance data analysis    
                 3. Promote dynamic intergration of data analyses into NAPS/other documents    
