@@ -2,6 +2,8 @@
 ----------
 
 # About
+The Open NAP initiative provides support to developing countries in preparing and implementing their NAP, by crowd-sourcing relevant organizations, experts and networks to offer technical advice and assistance.   
+[Click here for further details](https://napcentral.netlify.app/open-naps/)  
 
 ## Goal   
               To enhance data mining, access and application 
