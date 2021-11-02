@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
-title: /assets/img/NDI.png  napdown <br>Your home for NAP information and products!                                                                                                                                         
+title: ![](assets/img/NDI.png) napdown <br>Your home for NAP information and products!                                                                                                                                         
 
 navbar-links:
   About: 
