@@ -3,7 +3,7 @@
 
 # About
 ## Goal   
-To enhance data mining, access and application in the process to prepare and implement NAPS.   
+              To enhance data mining, access and application in the process to prepare and implement NAPS.   
 
 ## Objectives  
                 1. Reduce data access gaps    
@@ -15,12 +15,12 @@ To enhance data mining, access and application in the process to prepare and imp
 ----
 
 ## Products                                                                                                      
-### [NAP Global Progress](https://napdown.github.io/NAP-Global-Progress/)                                
-### [NAP Dashboard](https://napdown.github.io/O-NAPs-Dashboard/)                                          
-### [Cookbook](https://napdown.github.io/NAPdown/)                                                        
-### [Lesotho NAP](https://napdown.github.io/Lesotho/)                                                     
-### [Malawi NAP](https://napdown.github.io/Malawi-uon/)
-### [Sierra Leone NAP](https://napdown.github.io/Sierra-Leone/)
+#### [NAP Global Progress](https://napdown.github.io/NAP-Global-Progress/)                                
+#### [NAP Dashboard](https://napdown.github.io/O-NAPs-Dashboard/)                                          
+#### [Cookbook](https://napdown.github.io/NAPdown/)                                                        
+#### [Lesotho NAP](https://napdown.github.io/Lesotho/)                                                     
+#### [Malawi NAP](https://napdown.github.io/Malawi-uon/)
+#### [Sierra Leone NAP](https://napdown.github.io/Sierra-Leone/)
 
 ----------
 ## Repositories
