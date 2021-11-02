@@ -2,8 +2,8 @@
 ----------
 
 # About   
-The NAP Data Initiative seeks to enhance data access and application in the NAP preparation process. Access in this context refers to the knowledge of where to find what data, while application entails knowing how to use the data to solve a specific adaptation issue.
-The Open NAP initiative provides support to developing countries in preparing and implementing their NAP, by crowd-sourcing relevant organizations, experts and networks to offer technical advice and assistance.   
+The NAP Data Initiative (NDI)seeks to enhance data access and application in the NAP preparation process. Access in this context refers to the knowledge of where to find what data, while application entails knowing how to use the data to solve a specific adaptation issue.  
+The NDI is implemented under the Open NAP Initiative, which provides support to developing countries in preparing and implementing their NAP, by crowd-sourcing relevant organizations, experts and networks to offer technical advice and assistance.   
 [Click here for further details](https://napcentral.netlify.app/open-naps/)  
 
 ## Goal   
