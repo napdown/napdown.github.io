@@ -40,6 +40,4 @@ The Open NAP initiative provides support to developing countries in preparing an
 
 -----
 
-###### For more information about National Adaptation Plans, [browse here](https://www4.unfccc.int/sites/NAPC/Pages/national-adaptation-plans.aspx)        |           Learn more about the work of the [LEG](https://unfccc.int/LEG)             |            [Contact us](mailto:opennapdown@gmail.com) 
-
-###### ![](/assets/img/NDI.png)
+###### For more information about National Adaptation Plans, [browse here](https://www4.unfccc.int/sites/NAPC/Pages/national-adaptation-plans.aspx)        |           Learn more about the work of the [LEG](https://unfccc.int/LEG)             |            [Contact us](mailto:opennapdown@gmail.com)                      |     ![](/assets/img/NDI.png)
