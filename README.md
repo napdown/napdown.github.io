@@ -1,4 +1,4 @@
-![](/assets/img/NDI.png)
+
 ----------
 
 # About                                                                                                                                                
