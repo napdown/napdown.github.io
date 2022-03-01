@@ -26,6 +26,7 @@ The NDI is implemented under the Open NAP Initiative, which provides support to 
 #### [Lesotho NAP](https://napdown.github.io/Lesotho/)                                                     
 #### [Malawi NAP](https://napdown.github.io/Malawi-uon/)
 #### [Sierra Leone NAP](https://napdown.github.io/Sierra-Leone/)
+#### [HydroAtlas Southern Africa](https://napdown.github.io/HydroAtlas/)
 
 ----------
 ## Repositories
