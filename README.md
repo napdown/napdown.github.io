@@ -24,7 +24,7 @@ The NDI is implemented under the Open NAP Initiative, which provides support to 
 #### [NAP Dashboard](https://napdown.github.io/O-NAPs-Dashboard/)                                          
 #### [Cookbook](https://napdown.github.io/NAPdown/)                                                        
 #### [Lesotho NAP](https://napdown.github.io/Lesotho/)                                                     
-#### [Malawi NAP](https://napdown.github.io/Malawi-uon/)
+#### [Malawi NAP](https://napdown.github.io/MalawiNAP000/)
 #### [Sierra Leone NAP](https://napdown.github.io/Sierra-Leone/)
 #### [HydroAtlas Southern Africa](https://napdown.github.io/HydroAtlas/)
 
@@ -35,7 +35,7 @@ The NDI is implemented under the Open NAP Initiative, which provides support to 
 #### [NAP Dashboard](https://github.com/napdown/O-NAPs-Dashboard)
 #### [napdown cookbook](https://github.com/napdown/NAPdown)
 #### [Lesotho NAP](https://github.com/napdown/Lesotho)
-#### [Malawi NAP](https://github.com/napdown/Malawi-uon)
+#### [Malawi NAP](https://github.com/napdown/MalawiNAP000)
 #### [Sierra Leone NAP](https://github.com/napdown/Sierra-Leone)
 
 
